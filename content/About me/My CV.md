@@ -9,8 +9,10 @@ I am a strategic thinker who is passionate about the improvement of products, se
 
 ## Experience
 
-### Head of Advanced Analytics & Intelligence
-### **Infected Blood Compensation Authority (IBCA)**, *Newcastle upon Tyne*
+### **Infected Blood Compensation Authority (IBCA)**
+#### *Newcastle upon Tyne*
+#### Head of Advanced Analytics & Intelligence
+
 FEBRUARY 2025 - PRESENT</br>
 **Accomplishments**</br>
 - None yet!
@@ -18,8 +20,9 @@ FEBRUARY 2025 - PRESENT</br>
 **Responsibilities**</br>
 - Not sure yet!
 
-### Senior Analytics Manager
-### **Ubisoft**, *Newcastle upon Tyne* 
+### **Ubisoft**
+#### *Newcastle upon Tyne* 
+#### Senior Analytics Manager
 SEPTEMBER 2020  - JANUARY 2025</br>
 **Accomplishments:**</br>
 - Led the redesign of the data pipeline and models into Ubisoft’s Data Warehouse, allowing us to gain deeper insight at a faster pace
@@ -38,8 +41,9 @@ SEPTEMBER 2020  - JANUARY 2025</br>
 - Building and coaching the Data & Analytics team, including developing career plans and making sure the team has access to the necessary training to progress through their careers
 - Development of a coaching programme, ensuring that colleagues   champion data accuracy and data quality 
 
-### Analytics Manager
-### **AQA**, *Manchester*
+### **AQA**
+#### *Manchester*
+#### Analytics Manager
 MAY 2019 - SEPTEMBER 2020</br>
 **Acomplishments:**</br>
 - Developed bespoke software combining software with the Data Warehouse to ensure regulatory compliance, meaning the company did not suffer a further £1m fine
@@ -55,17 +59,20 @@ MAY 2019 - SEPTEMBER 2020</br>
 - Representing team in various internal boards/groups, up to executive level
 - Culture and process transformation, in particular improving the links & co-operation between Analytics & Data Science and other teams such as Research & Development, Standards & Awarding and IT Department
 
-### Business Intelligence Developer
-### **AQA**, *Manchester*
+#### Business Intelligence Developer
+
 MAY 2017 - MAY 2019 </br>
 
-### Social Researcher
-### **Office for National Statistics**, *Titchfield*
+### **Office for National Statistics**
+#### *Titchfield*
+#### Social Researcher
+
 NOVEMBER 2016 - MAY 2017 </br>
 
 ## Education
-### BSc Economics (Hons)
-### **Royal Holloway, University of London**, *Egham, Surrey*
+### **Royal Holloway, University of London**
+#### *Egham, Surrey*
+#### BSc Economics (Hons)
 SEPTEMBER 2013 - JULY 2016 </br>
 **Final Classification** - 1st Class Honours </br>
 **Research Project** - Sex, Drugs and Sausage Rolls - A statistical analysis into the cultural difference between the North and South of England [April 2016]
