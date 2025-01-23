@@ -11,11 +11,11 @@ I am a strategic thinker who is passionate about the improvement of products, se
 
 ### Head of Advanced Analytics & Intelligence
 ### **Infected Blood Compensation Authority (IBCA)**, *Newcastle upon Tyne*
-FEBRUARY 2025 - PRESENT
-**Accomplishments**
+FEBRUARY 2025 - PRESENT</br>
+**Accomplishments**</br>
 - None yet!
 
-**Responsibilities**
+**Responsibilities**</br>
 - Not sure yet!
 
 ### Senior Analytics Manager
@@ -71,13 +71,17 @@ SEPTEMBER 2013 - JULY 2016 </br>
 **Research Project** - Sex, Drugs and Sausage Rolls - A statistical analysis into the cultural difference between the North and South of England [April 2016]
 
 ## Skills
-<p align=center style="font-size:20px;">
+<p align=center style="font-size:24px;">
 
 |       |       |       | | | 
 | :-----: | :-----: | :-----: |  :-----: |  :-----: | 
 | Python | R | SQL | Apache Airflow | E2E ETL |
 | Snowflake |  Tableau | PowerBI | Looker | KNIME | 
 | Alteryx | Informatica | Sentiment Analysis | Levenshtein Similarity | Git |
+| Salesforce | Microsoft Dynamics | Agile | Waterfall | JIRA | 
+| Excel | Powerpoint | Word | Access | VSCode | 
+| Regression Analysis | Machine Learning | GenAI | Mental Health First Aider | Intermediate German Speaker | 
+
 
 
 
